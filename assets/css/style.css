@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header & nav style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,6 +76,7 @@ main {
     margin-left: 20px;
 }
 
+/* aside style */
 aside {
     width: 20%;
     margin-right: 20px;
@@ -102,6 +104,7 @@ aside .benefits {
     max-width: 150px;
 }
 
+/* article style */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,6 +125,7 @@ article h2 {
     font-size: 36px;
 }
 
+/* footer style */
 footer {
     padding: 30px;
     clear: both;
