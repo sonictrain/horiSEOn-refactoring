@@ -10,16 +10,17 @@ This project aims to improve the HTML codebase of Horiseon website to maximise S
 
 ## Usage
 Simply clone the repo using the following command:
-```bash
+```
 git clone <repository-address>
 ```
 
 cd inside the the repository on your local machine:
-```bash
+```
 cd horiSEOn-refactoring
 ```
 
 and finally launch the `index.html` file with a browser of your choice.
+Feel free to visit the website from [this link](https://sonictrain.github.io/horiSEOn-refactoring/).
 
 ## License
 Copyright (c) Nicola Brucoli. All rights reserved.
