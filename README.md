@@ -1,4 +1,5 @@
 # horiSEOn Refactoring
+![website preview screenshot](./assets/images/preview.png)
 
 ## Description
 This project aims to improve the HTML codebase of Horiseon website to maximise SEO effectiveness. In the ever-evolving landscape of the web, search engine optimisation (SEO) plays a crucial role in ensuring that your content is discoverable and ranks properly, not to mention the accessibility for those relying on screen readers.
